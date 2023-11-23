@@ -27,7 +27,7 @@
         remote="github" />
     <project name="awesometic/android_device_samsung_gts3llte"
         path="device/samsung/gts3llte"
-        revision="lineage-18.1"
+        revision="dot11"
         remote="github" />
     <project name="awesometic/proprietary_vendor_samsung"
         path="vendor/samsung"
@@ -42,10 +42,10 @@
         path="device/samsung/qcom-common"
         revision="lineage-18.1"
         remote="github" />
-    <project name="LineageOS/android_hardware_samsung"
+    <project name="samuelvsouza/android_hardware_samsung"
         path="hardware/samsung"
-        revision="lineage-18.1"
-        remote="github" />
+        revision="dot11"
+    <project path="lineage/sdk" name="android_lineage-sdk" revision="lineage-18.1" remote="github" />
 </manifest>
 ```
 
